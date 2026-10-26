@@ -1,0 +1,8 @@
+# Replace with the assignment's sample questions. Format:  question | expected pages | expected keywords (;-separated)
+What is the total product carbon footprint of iMac (two ports) 256GB? | 10,2 | 346
+How much power does iMac use in sleep mode at 115V? | 12 | 0.57
+What share of the life cycle emissions comes from production versus product use? | 10 | 50%;45%
+What are the baseline emissions and how much are they reduced? | 2 | 445;99
+What does footnote 7 say about how carbon reductions are calculated? | 11 | business-as-usual
+Which configuration has a footprint of 391 kg CO2e? | 10 | four ports
+How much less energy does iMac use than the ENERGY STAR requirement? | 7 | 58
